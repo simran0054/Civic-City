@@ -1,2 +1,1 @@
-# Civic-City
-A web-based platform that allows users to report civic issues such as damaged street lights, garbage, or sewage problems by uploading photos and location details..
+https://www.figma.com/design/xq3X4GbS4wyjz9qNuuIuhU/Untitled?node-id=259-53&t=KPDdVSEx7twBhT7u-1
